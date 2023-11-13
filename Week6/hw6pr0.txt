@@ -1,0 +1,18 @@
+In The Education of a Computer, Hopper lists two drawbacks of "using subroutines," 
+that is, of abstracting computation into reusable functions. 
+Do you feel those two drawbacks still exist today? How important are they today?
+Hopper also lists five advantages of "using subroutines" in the short excerpt included above. 
+However, some important advantages of today's high-level languages, like Python, 
+are not part of that list! Explain at least one advantage of a high-level language that Hopper 
+does not mention in Education of a Computer. This may be an idea of your own, for sure, or you 
+might take one from those mentioned in her biography—she continued expanding her arguments as time passed!
+
+
+For the disadvanteges, I believe the second disadvantege, that being programming a desired subroutine, is not
+a big issue today as the libraries are so large to where there are reusable functions for practially anything.
+It would be rare to code your own subroutine although it's still possible.
+For time loss, it is not imporant as if I understood correctly, duplicate data trasnfer would happen
+at lighting speeds compared to back then. 
+A advantage that I believe is present now is today's high level langauges are capable of learning on their own, AI.
+We can prorgam an artificial mind that can learn with more informtaion that is given about anything really.
+Python can be used to help make a crude AI or can be used to make a higher, defined AI.

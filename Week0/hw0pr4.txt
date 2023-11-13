@@ -1,0 +1,25 @@
+# NEWS 
+
+0 xE** -> N 0 # "corridor rule"
+
+0 *X** -> E 1 # "intersection rule"
+
+0 NE** -> X 2 # "dead end rule"
+
+1 *X*S -> E 1
+
+1 ***x -> S 3
+
+1 *E*S -> x 0
+
+2 N*X* -> W 2
+
+2 X*** -> N 0
+
+2 N*W* -> x 3
+
+3 **WX -> S 3
+
+3 **X* -> W 2
+
+3 **WS -> x 1

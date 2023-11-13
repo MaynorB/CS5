@@ -1,0 +1,13 @@
+1. The first article looks at the things GPT-3 "takes for granted" -- the resources, impacts, and 
+assumptions giving rise to the system itself, not just its immediate prompt/response behavior:
+
+What is another computational system you've encountered that takes its big-picture context for granted?
+How could it better incorporate its context? If it did, what's a way it would operate differently?
+CS worries a lot about "inputs and outputs to functions." How is "inputs and outputs to functions" the same/different from 
+"inputs and outputs to functioning," as a whole?
+
+I suppose it's thhe internet. Due to how much data is has, the amount of context given where it can pull up pretty much any information on anything.
+I think it should be more aware of what it gives for search results I suppose.
+There would likely be more restirctions on information that shows up, the darker parts won't be easily accessed. 
+I think their different as function translates to...well functiona. A set of rules/actions the laptop follows when it's called. Functioning means executing the
+function accuretly, how it was programmed to do. They're similar as they both rely on inputs and outputs to know what exactly it's gonna do. 

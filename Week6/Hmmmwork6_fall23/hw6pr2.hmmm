@@ -1,0 +1,17 @@
+# hw6 problem 2
+#
+# Name(s): Maynor 
+#
+
+# This is a placeholder whose code you'll replace:
+00 read r1          # get number from user to r1
+01 read r2          # ditto, for r2
+02 setn r3 1        # Sets r3 to 1
+03 jeqzn r2 09      # Checks if r2 = 0
+04 mul r3 r1 r3     # r3 = r1 * r2
+05 addn r2 -1       # subtracts one from r2
+06 jnezn r2 04
+07 write r3
+08 halt             # stop.
+09 write r3         # if r2 equal 0, prints 1
+10 halt             # stop.

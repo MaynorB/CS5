@@ -1,0 +1,5 @@
+Since the growth is exponetial, we can use 2**n, whatever n will be.
+For 100qubits, it would be 2**100 = 1.2676506e+30 numbers. 
+For 280 qubits, it would be 1.9426689e+84 numbers.
+I like David Bacon's tweet as it forces you to think a bit beyond universes existing with each others.
+It is still a bit hard to wrap my head around it.

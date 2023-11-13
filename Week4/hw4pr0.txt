@@ -1,0 +1,11 @@
+Which contributing factor within the bug's origins (there are many!) strikes you as the "most preventable" and why? 
+Of course, this will be in hindsight….
+The investigative report that uncovered the bug stated that software "does not fail in the same sense as a mechanical system." 
+Do you agree or disagree with this statement? Explain briefly.
+
+I believe the calculation should never had stayed on for the first 40 seconds of flight. 
+It was suelfess and served no real purpose besides being "a "special feature" meant to make it easy to restart the system in the event of a brief hold in the countdown".
+I agree that software doesn't fail in the same sense as a mechanical system.
+Usually when a mechanical system fails, it was eigheher built srong or the calculations were off material wise.
+Software involved calculations, both types of failure share it, but it can also rely on the speed of the computer, the edition or the particular language.
+I also agree that software is like an orgasm, bulding upon previous lines of code and knowledge. 

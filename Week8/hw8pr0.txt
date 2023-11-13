@@ -1,0 +1,8 @@
+This article distinguishes between algorithms and authors, e.g., often, algorithms and online results simply reflect people's attitudes and behavior.
+To what extent do you agree that algorithms are (or aren't) subjective as a judge of human beings?
+
+I believe that algorithms reflect roughly 89% of human being's attidudes and behaviors.
+Humans when coding up the algorithm can not be 100% unbiased as huamns natrually insert their views. 
+Due to this, the algorithm will have a small part that is influenced by the programmer.
+As the algortihm can not really decide what is right on its own, it is limited to what the programmer told it what is right.
+Of course, it can learn and begin moving away from what it was taught from the programmer. 

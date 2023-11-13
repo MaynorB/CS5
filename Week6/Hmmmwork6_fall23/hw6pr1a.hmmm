@@ -1,0 +1,23 @@
+# hw6pr1a.hmmm is an example program that  
+#   (1) asks the user for an input
+#   (2) counts up from that input
+#   (3) keeps going and going...
+#
+# Name(s):Maynor 
+#
+
+# Lab task #1a: Change the below code to "the cubic countdown"
+# See the lab description for details
+
+00 read r1          # get number from user to r1
+01 copy r2 r1         #Copies r1 to r2
+02 mul r1 r1 r1      # multiply r1 with r1 and sets r1 equal to result
+03 mul r1 r1 r2       # multiply r1 with r1 
+04 write r1          # prints r1
+05 addn r1 -1        # subtracts 1 from r1
+06 jeqzn r1 08       # Checks if r1 == 0
+07 jumpn 04         # Jumps to line 4
+08 halt             # never halts! [use ctrl-c]
+
+# Lab task #1a: Change the above code to "the cubic countdown"
+# See the lab description for details

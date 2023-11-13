@@ -1,0 +1,24 @@
+# 
+# Hashtag lines are optional comments
+#
+
+# 0 **** -> N 0
+#.   NEWS
+
+0 *x** -> E 0
+
+0 xE** -> N 0
+
+0 NE** -> S 1
+
+1 ***X -> S 1
+
+1 *E*S -> W 2
+
+2 X*** -> N 2 
+
+2 N*X* -> W 3
+
+3 ***X -> S 3
+
+3 **XS -> W 2

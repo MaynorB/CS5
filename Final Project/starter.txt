@@ -1,0 +1,11 @@
+vPython Pool Final Project
+
+Group Members: Eduardo A, Maynor B, Imani however
+
+Vision: We plan to replicate pool in vPython creating assets like the balls, table, and the pits the balls fall in. 
+We also plan to implement collisions with every ball and the table. 
+After this, we'll have a player interface that let's a player control the strength and direction of their hit. 
+Then, we'll have all the game rules (e.g. Not hitting the 8-ball last results in a loss) and if time permits, a menu for the game.
+
+Current Changes: As of now, we've gotten a lot of progress done. 
+We've completed the assets and pretty much all the collisions. We have 16 assets interacting with each other and the walls.

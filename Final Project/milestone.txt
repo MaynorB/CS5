@@ -1,0 +1,19 @@
+Names: Eduardo A, Maynor B, Imani H
+
+The VPython project 
+
+Brief game description: 
+Our goal is to create a Vpython game based on pool. The game wil start with a 
+normal pool setup. Then players will take turns hitting the que ball, trying to 
+get either stripes or solids in. So far, you can change the direction the que is 
+going in by changing your view with the double click. You can make the ball move 
+using arrow keys.
+
+How has the game evolved:
+The game now has working pockets that take the balls and deposit them under 
+the table. If the white ball goes under you can press the space bar and it 
+returns to its original position. The white ball now moves according to your view 
+and the arrow keys.  
+
+GlowScript URL:
+https://www.glowscript.org/#/user/Imani/folder/MyPrograms/program/Milestone.py

@@ -1,0 +1,12 @@
+One quote from the article: "Aristotle [... drew ... ] a distinction between what he called “actual” infinity, 
+something that would exist all at once, at a given moment—which he declared an impossibility—and “potential” infinity, 
+which would unfold over time and which he deemed perfectly intelligible." 
+Reflect on how this Aristotelian distinction does (or doesn't) capture the difference between the 
+infinity of mathematical functions and the infinity of computer programs.
+
+I believe it does capture the infinity of computer programs.
+Computer programs can do anything, they just have to be made.
+It demostrates the potential infinisty of computer programs.
+As for the infinity of mathematical functions, the potential applies as well.
+It takes time for those to unfold, although pi and e do natrually exist all at one.
+I believe pi and e to be the exception to an "actual" infinity as they exist all at once.

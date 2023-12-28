@@ -1,0 +1,22 @@
+Names: Eduardo A, Maynor B, Imani H
+
+Billiards: The VPython project 
+
+Brief game description: 
+Our goal was to create a Vpython game based on pool. The game wil start with a 
+normal pool setup. Then players will take turns hitting the que ball, trying to 
+get either stripes or solids in.
+
+Controls:
+press SPACE to shoot
+press R to rescue cue ball
+RIGHT_CLICK to set angle of the shot
+Use the bar to the right to control strength of shot
+
+How to win:
+The text box will display the score of the players 
+First player to reach seven balls wins
+
+GlowScript URL:
+https://www.glowscript.org/#/user/eambrizlazo/folder/MyPrograms/program/billiards.py
+
